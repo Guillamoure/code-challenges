@@ -1,5 +1,6 @@
 // Create a function that accepts an array, and returns an object.
 // The object will have keys that count the number of each string
+
 // For example
 // Given the array ["a", "b", "a", "c", "d", "b", "a"]
 // The function should return {
