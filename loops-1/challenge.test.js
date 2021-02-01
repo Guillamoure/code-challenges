@@ -4,6 +4,10 @@ test('ascending([1, 2, 3, 4, 5]) returns true', () => {
 	expect(ascending([1, 2, 3, 4, 5])).toBe(true)
 })
 
+test('ascending([5, 4, 3, 2, 1]) returns false', () => {
+	expect(ascending([5, 4, 3, 2, 1])).toBe(false)
+})
+
 test('ascending([1, 2, 4, 3, 5]) returns false', () => {
 	expect(ascending([1, 2, 4, 3, 5])).toBe(false)
 })
