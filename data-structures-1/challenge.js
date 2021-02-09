@@ -17,6 +17,10 @@ function counting(array) {
 	// write code here
 }
 
-module.exports = counting
-
+// To test code, type the below command into your terminal
 // npm test -- data-structures-1
+
+
+
+// Ignore this line
+module.exports = counting

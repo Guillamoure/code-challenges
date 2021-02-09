@@ -16,6 +16,10 @@ function ascending(array) {
 	// write code here
 }
 
-module.exports = ascending
 
+// To test code, type the below command into your terminal
 // npm test -- loops-1
+
+
+// Ignore this line
+module.exports = ascending
